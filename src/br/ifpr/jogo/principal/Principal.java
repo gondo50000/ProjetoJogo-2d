@@ -4,7 +4,7 @@ import javax.swing.JFrame;
 public class Principal extends JFrame {
     public Principal(){
         super.setVisible(true);
-        super.setSize(500, 500);
+        super.setSize(2399, 1199);
         super.setTitle("Meu jogo");
         super.setLocationRelativeTo(null);
         super.setDefaultCloseOperation(ABORT);
